@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sunny%20Dange&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Linux%20System%20Administrator%20%7C%20Cybersecurity%20%26%20VAPT&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F00FF,100:E100FF&text=Sunny%20Dange&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=VAPT%20%7C%20Penetration%20Tester%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Linux%20Administrator&descAlignY=58"/>
 <a href="https://github.com/DANGESUNNY20">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Linux+System+Administrator;Cybersecurity+%26+VAPT+Enthusiast;Certified+Ethical+Hacker+(CEH+v12);Security-First+Systems+Engineer" alt="Typing SVG"/>
 </a>
